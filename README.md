@@ -211,6 +211,8 @@
 
 *Link del video en YouTube*
 
+https://youtu.be/o2QRBu6-uj4
+
 ## 5. CONCLUSIONES
 
 *-El inductor es un componente eléctrico que consiste en un alambre u otro conductor, que su importancia radica básicamente en aumentar el flujo magnético a través del circuito, normalmente se lo usa como en forma de bobina.*
