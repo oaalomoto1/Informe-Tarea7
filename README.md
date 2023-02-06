@@ -8,6 +8,13 @@
 
 ***1.2 OBJETIVOS ESPECÍFICOS.***
 
+*-Investigar la importancia que tiene la implementación de los inductores en un circuito.*
+
+*-Analizar como se puede aplicar de una manera practica el uso de transformadores en circuitos de corriente directa.*
+
+*-Realizar los ejercicios propuestos en estos dos capítulos.* 
+
+
 ## 2. MARCO TEÓRICO (RESUMEN)
 
 ***2.1. CAPÍTULO 13 INDUCTORES.***
@@ -206,6 +213,11 @@
 
 ## 5. CONCLUSIONES
 
+*-El inductor es un componente eléctrico que consiste en un alambre u otro conductor, que su importancia radica básicamente en aumentar el flujo magnético a través del circuito, normalmente se lo usa como en forma de bobina.*
+
+*-El transformador eléctrico son un elemento eléctrico que permite aumentar o disminuir la tensión de un circuito eléctrico de corriente alterna, pero manteniendo su potencia, por lo cual es de gran ayuda en circuitos eléctricos para variar los valores de tensión manteniendo su potencia estable.*
+
+*-La realización de los ejercicios propuestos en estos dos capítulos ayuda de gran manera a tener un grado mayor de comprensión a la hora de entender como se usa, para que se aplica y cuáles son los fenómenos que actúan cuando estos son implementados en un circuito eléctrico.*
 ## 6. BIBLIOGRAFÍA
 
 -Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
