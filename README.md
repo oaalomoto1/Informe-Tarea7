@@ -4,6 +4,8 @@
 
 ***1.1 OBJETIVO GENERAL.***
 
+*-Estudiar la importancia de los inductores y transformadores en corriente directa y corriente alterna, mediante el uso de mapas conceptuales y el desarrollo de ejercicios planteados en los dos capítulos, para obtener un mayor grado de conocimiento en lo que respecta esta parte de la materia.*
+
 ***1.2 OBJETIVOS ESPECÍFICOS.***
 
 ## 2. MARCO TEÓRICO (RESUMEN)
